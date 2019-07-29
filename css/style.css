@@ -783,3 +783,28 @@ h1, h2, h3, h4, h5,
   width: 40px;
   height: 40px;
   line-height: 40px; }
+
+.section1{
+  width: 100vw;
+  height: 200vh;
+  display: grid;
+  grid-template-columns: 3fr 1fr
+}
+
+.rapid_fire{
+  background-color: rgb(226, 219, 151);
+  border-right: 
+}
+
+.profile{
+  background-color: white
+}
+
+.rapid_fire .img{
+  width: 100%;
+  background-image: url("/images/person_1.jpg");scroll-margin-block-end: 
+}
+
+.rapid_fire .rapid_fire_content{
+  
+}
