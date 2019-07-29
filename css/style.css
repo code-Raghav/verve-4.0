@@ -793,7 +793,8 @@ h1, h2, h3, h4, h5,
 
 .rapid_fire{
   background-color: rgb(226, 219, 151);
-  border-right: 
+  display: grid;
+  grid-template-rows: 1fr 4fr 1fr
 }
 
 .profile{
